@@ -7,7 +7,7 @@ CSC 522 Project <br>
 Date: April 28, 2026 <br>
 Group 13 <br>
 Members:
-   * Cynthia Espinoza-Arredondo, cespino2
+   * Cynthia Espinoza-Arredondo, cespino2.
    * Demaris Keleta , Dgkeleta
    * Mia Glenn, mglenn2
    * JonCarlo Migaly, jmigaly
